@@ -18,7 +18,7 @@ The RWG may pursue any number of activities that help to promote the interests a
 
 Ultimately, the goal of the RWG is to ensure that the CVE program continues to publish timely, high-quality CVE records affecting generally available software, regardless of the origin, maintenance responsibilities, or  of that software.
 
-The RWG may also occasionally work with other Working Groups, such as the Quality Working Group, the Strategic Planning Working Group, and the CNA Organization of Peers, at the invitation of those WGs. Relatedly, the RWG may occasionally invite those working groups to assist in joint projects.
+The RWG is expected to work with other Working Groups, such as the Strategic Planning Working Group in the case of rule changes, the Quality Working Group in the case of desirable features of research-sourced CVE entries, and the CNA Organization of Peers in the case of coordinating among producer and open source CNAs, at the invitation of those WGs. Relatedly, the RWG may occasionally invite those working groups to discuss and assist in joint projects. Finally, the RWG is expected to receive guidance from the CVE Board in cases where the unique expertise of the RWG would be beneficial to the CVE Program.
 
 ### 2.1 Regularly Scheduled Group Meetings
 
