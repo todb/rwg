@@ -36,7 +36,7 @@ All members are encouraged to maintain an active presence during regularly sched
 
 If a group member is no longer a representative of an active research CNA, that member shall be removed from the group.
 
-Of course, COOP members are free to resign from the group at any time and this does not affect their standing as a CNA representative.
+Of course, RWG members are free to resign from the group at any time and this does not affect their standing as a CNA representative.
 
 #### 3.2.1 Reinstating membership in the RWG
 
