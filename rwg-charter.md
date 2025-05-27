@@ -6,9 +6,11 @@ Most of this document is inspired by the [CVE COOP Charter](https://bit.ly/2WZzc
 The Research Working Group (RWG) will be established by the CVE Board under section [2.13 of the CVE Board Charter](http://cve.mitre.org/community/board/charter.html#working_groups), announced on <*SOME FUTURE DATE*>, with the purpose of giving voice to, and establishing working norms for, the extended community of designated Research CVE Numbering Authorities (CNAs). This includes providing guidance and advice to the research community, as well as other research community activities designed to promote the CVE Program.
 
 This is Version 0.1 of this charter, as of May 27, 2025.
+
 ## 1. Code of Conduct
 
 Members of the RWG agree to abide by the professional conduct guidance as described by the [CVE Project](https://www.cve.org/ResourcesSupport/AllResources/ProfessionalCodeOfConduct). Complaints regarding inappropriate behavior are welcomed by RWG chairperson or another member of the [CVE Board](https://cve.mitre.org/community/board/index.html#current_members).
+
 ## 2. Group Activities
 
 The RWG may pursue any number of activities that help to promote the interests and address the concerns of the research CNA community and the CVE Program. Generally, these activities should be limited in scope to issues and topics that affect the research CNA community; examples include maintaining and updating documentation and other onboarding materials useful to research CNAs, offering guidance on issues that uniquely affect research CNAs to the CVE Board, and establish norms establish in resolving conflicts with other CNAs regarding CVE record publication.
@@ -40,21 +42,28 @@ Of course, COOP members are free to resign from the group at any time and this d
 Former members who have resigned or were removed due to inactivity may rejoin the group at any time, provided they are still a representative of a research CNA.
 
 Former members who were removed as a result of a conduct violation may have their membership reinstated during a regularly scheduled meetings, provided unanimous consent of those meeting participants to the reinstatement.
+
 ## 3.3. The Role of the Group Chairperson
 
 The RWG shall elect one of the group members as chairperson for a one year term. The RWG chairperson will moderate the meetings of RWG, set the agenda for those meetings, manage membership to the group, and maintain the online infrastructure needed to conduct the business of the group.
+
 ### 3.3.1 Chairperson Absence and Meeting Cancellations
 
 In the event the chairperson cannot attend the regularly scheduled meeting, the chairperson shall designate a proxy from the RWG membership at the earliest opportunity.
 
 The chairperson may also elect to cancel a meeting due to a conflict with a local holiday, provided this cancellation is agreed to with unanimous consent among meeting attendees during the meeting prior to that holiday.
+
 ### 3.3.2 Group Chairperson Election Schedule
 
 Annual nominations for the RWG chairperson shall commence during the first meeting in October and close on the following October meeting. A new chairperson will be elected from the named nominees no later than the first meeting in November, and the elected chairperson will begin their term at the second meeting in December.
 ## 4. Amending this Charter
 
 The initial adoption of this charter and all changes to this document will be proposed at the first regularly scheduled meeting of the RWG, and its adoption or update requires unanimous consent among all RWG members participating in that meeting. Additionally, proposed changes must be announced as an agenda item at least one day prior to a regularly scheduled meeting of the RWG.
+
 ## 4.1. Current Version of this Charter
 
 This charter was first adopted as Version 1 by unanimous consent by the attendees of the scheduled meeting on <*SOME FUTURE DATE*>.
+
 ### 4.1.1 Changelog
+
+Changes to this charter, by date and version number, will be noted here.
