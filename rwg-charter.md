@@ -1,6 +1,7 @@
 **TLP: CLEAR**
 
-Most of this document is inspired by the [CVE COOP Charter](https://bit.ly/2WZzcBx)
+*Most of this document is inspired by the [CVE COOP Charter](https://bit.ly/2WZzcBx).*
+
 # Research Working Group for the CVE Program
 
 The Research Working Group (RWG) will be established by the CVE Board under section [2.16 of the CVE Board Charter](http://cve.mitre.org/community/board/charter.html#working_groups), announced on <*SOME FUTURE DATE*>, with the purpose of giving voice to, and establishing working norms for, the extended community of designated Research CVE Numbering Authorities (CNAs). This includes providing guidance and advice to the research community, as well as other research community activities designed to promote the CVE Program.
