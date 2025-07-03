@@ -4,7 +4,7 @@
 
 # Researcher Working Group for the CVE Program
 
-The Researcher Working Group (RWG) will be established by the CVE Board under section [2.16 of the CVE Board Charter](http://cve.mitre.org/community/board/charter.html#working_groups), [announced](https://www.cve.org/Media/News/item/news/2025/07/01/CVE-Program-Adds-Researcher-WG-for-CNAs) on July 1, 2025, with the purpose of giving voice to, and establishing working norms for, the extended community of designated Research CVE Numbering Authorities (CNAs). This includes providing guidance and advice to the research community, as well as other research community activities designed to promote the CVE Program.
+The Researcher Working Group (RWG) is established by the CVE Board under section [2.16 of the CVE Board Charter](http://cve.mitre.org/community/board/charter.html#working_groups), [announced](https://www.cve.org/Media/News/item/news/2025/07/01/CVE-Program-Adds-Researcher-WG-for-CNAs) on July 1, 2025, with the purpose of giving voice to, and establishing working norms for, the extended community of CVE Numbering Authorities (CNAs) that perform technical vulnerability research. This includes providing guidance and advice to the research community, as well as other research community activities designed to promote the CVE Program.
 
 This is Version 0.2 of this charter, as of June 24, 2025.
 
@@ -14,26 +14,27 @@ Members of the RWG agree to abide by the professional conduct guidance as descri
 
 ## 2. Group Activities
 
-The RWG may pursue any number of activities that help to promote the interests and address the concerns of the research CNA community and the CVE Program. Generally, these activities should be limited in scope to issues and topics that affect the research CNA community; examples include maintaining and updating documentation and other onboarding materials useful to research CNAs, offering guidance on issues that uniquely affect research CNAs to the CVE Board, and establish norms establish in resolving conflicts with other CNAs regarding CVE record publication.
+The RWG may pursue any number of activities that help to promote the interests and address the concerns of the research CNA community and the CVE Program. Generally, these activities should be limited in scope to issues and topics that affect the research CNA community. Examples include maintaining and updating documentation and other onboarding materials useful to research CNAs, offering guidance on issues that uniquely affect research CNAs to the CVE Board, and establishing norms in resolving conflicts with other CNAs regarding CVE ID assignment and Record publication.
 
-Ultimately, the goal of the RWG is to ensure that the CVE program continues to publish timely, high-quality CVE records affecting generally available software, regardless of the origin, maintenance responsibilities, or  of that software.
+Ultimately, the goal of the RWG is to ensure that the CVE program continues to publish timely, high-quality CVE Records affecting generally available software, regardless of the origin, maintenance responsibilities, or of that software.
 
 The RWG is expected to work with other Working Groups, such as the Strategic Planning Working Group in the case of rule changes, the Quality Working Group in the case of desirable features of research-sourced CVE entries, and the CNA Organization of Peers in the case of coordinating among producer and open source CNAs, at the invitation of those WGs. Relatedly, the RWG may occasionally invite those working groups to discuss and assist in joint projects. Finally, the RWG is expected to receive guidance from the CVE Board in cases where the unique expertise of the RWG would be beneficial to the CVE Program.
 
 ### 2.1 Regularly Scheduled Group Meetings
 
-The RWG will meet remotely on Tuesdays throughout the year, starting upon the establishment of this working group. The issues discussed at these meetings, or via the mailing list, or other channels, shall be subject to [the Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule#The_rule), with an exception for communicating with members of the CVE Board.
+The RWG will meet virtually and weekly throughout the year, starting upon the establishment of this working group. The issues discussed at these meetings, or via the mailing list, or other channels, shall be subject to [the Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule#The_rule), with an exception for communicating with the CVE Board.
 
 ## 3. Group Membership
 
-In order to build and preserve a **TLP: Amber** level of trust among working group participants, membership to the group is limited to representatives of currently active CVE Numbering Authorities (CNAs) that are designated as either research CNAs or bug bounty CNAs, as [designated by the Secretariat](https://www.cve.org/ProgramOrganization/CNAs), as well as their respective root CNAs and the CVE Board. From time to time, individuals not associated with research or bug bounty CNAs may also be invited to join upon reaching consensus of the existing membership.
+In order to build and preserve a **[TLP: Amber]([url](https://www.first.org/tlp/))** level of trust among working group participants, membership to the group is limited to representatives of currently active CVE Numbering Authorities (CNAs) that perform technical vulnerability research or work on behalf of vulnerability researchers on a regular basis. This typically includes CNAs designated as Research or Bug Bounty Provider [organization types](https://www.cve.org/PartnerInformation/ListofPartners), as well as their respective Roots and the CVE Board. From time to time, individuals not directly associated with Research or Bug Bounty Provider CNAs may be invited to join, with the consensus of exiting group membership.
 
-There is no limit to the number of representatives a given CNA may have as members of the group. Potential members to the group can request to join by visiting https://cve-cwe-programs.groups.io/g/RWG and signing up to the RWG group.
+There is no limit to the number of representatives a given CNA may have as members of the group. Potential members request to join at the [Groups.io mailing list](https://cve-cwe-programs.groups.io/g/RWG).
 
 ### 3.1. Group Materials
 
-Members shall have access to all live and recorded meetings and other material generated by the group, and agree that these materials are to be treated as **[TLP: Amber](https://www.us-cert.gov/tlp)** materials (unless otherwise explicitly noted in those materials). Violating this trust is grounds for removal from the group.
-### 3.2. Leaving the RWG
+Members shall have access to all live and recorded meetings and other material generated by the group, and agree that these materials are to be treated as **TLP: Amber** materials (unless otherwise explicitly noted in those materials). Violating this trust is grounds for removal from the group.
+
+### 3.2. Leaving the Group
 
 All members are encouraged to maintain an active presence during regularly scheduled meetings. Members of the group may be asked by the chairperson of the group from time to time if they would like to maintain their membership. A lack of response after a week to this request will indicate the member is no longer interested in participating, and that member will be removed by the chairperson.
 
@@ -41,7 +42,7 @@ If a group member is no longer a representative of an active research or bug bou
 
 Of course, RWG members are free to resign from the group at any time and this does not affect their standing as a CNA representative or any other status.
 
-#### 3.2.1 Reinstating membership in the RWG
+#### 3.2.1 Reinstating membership in the Group
 
 Former members who have resigned or were removed due to inactivity may rejoin the group at any time, provided they are still qualified to join.
 
