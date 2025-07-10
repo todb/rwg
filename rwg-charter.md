@@ -26,7 +26,7 @@ The RWG will meet virtually and weekly throughout the year, starting upon the es
 
 ## 3. Group Membership
 
-In order to build and preserve a **[TLP: Amber]([url](https://www.first.org/tlp/))** level of trust among working group participants, membership to the group is limited to representatives of currently active CVE Numbering Authorities (CNAs) that perform technical vulnerability research or work on behalf of vulnerability researchers on a regular basis. This typically includes CNAs designated as Research or Bug Bounty Provider [organization types](https://www.cve.org/PartnerInformation/ListofPartners), as well as their respective Roots and the CVE Board. From time to time, individuals not directly associated with Research or Bug Bounty Provider CNAs may be invited to join, with the consensus of exiting group membership.
+In order to build and preserve a **[TLP: Amber]([url](https://www.first.org/tlp/))** level of trust among working group participants, membership to the group is limited to representatives of currently active CVE Numbering Authorities (CNAs) that perform technical vulnerability research or work on behalf of vulnerability researchers on a regular basis. This typically includes CNAs designated as Research or Bug Bounty Provider [organization types](https://www.cve.org/PartnerInformation/ListofPartners), as well as their respective Roots and the CVE Board. From time to time, individuals not directly associated with Research or Bug Bounty Provider CNAs may be invited to join, with the consensus of existing group membership.
 
 There is no limit to the number of representatives a given CNA may have as members of the group. Potential members request to join at the [Groups.io mailing list](https://cve-cwe-programs.groups.io/g/RWG).
 
