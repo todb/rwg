@@ -6,7 +6,7 @@
 
 The Researcher Working Group (RWG) is established by the CVE Board under section [2.16 of the CVE Board Charter](http://cve.mitre.org/community/board/charter.html#working_groups), [announced](https://www.cve.org/Media/News/item/news/2025/07/01/CVE-Program-Adds-Researcher-WG-for-CNAs) on July 1, 2025, with the purpose of giving voice to, and establishing working norms for, the extended community of CVE Numbering Authorities (CNAs) that perform technical vulnerability research. This includes providing guidance and advice to the research community, as well as other research community activities designed to promote the CVE Program.
 
-This is Version 0.2 of this charter, as of June 24, 2025.
+This is Version 1 of this charter, as of August 12, 2025.
 
 ## 1. Code of Conduct
 
